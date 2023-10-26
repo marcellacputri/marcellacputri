@@ -1,7 +1,7 @@
 ## Hello Everyone! I'm Marcella 
 
 # About Me
-I'm a fourth year student of Computer Engineering at the Universitas Indonesia who easy to learn new things, communicative, and able to adapt in team with the different situations. I am a highly-motivated person with goals and I have interesting to contribute in society through the technology.
+I'm a fresh graduate of Computer Engineering at the Universitas Indonesia who easy to learn new things, communicative, and able to adapt in team with the different situations. I am a highly-motivated person with goals and I have interesting to contribute in society through the technology.
 
 # Certification
 - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/ERZR48LRWZYV) by Dicoding
